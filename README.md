@@ -27,12 +27,11 @@ Este portafolio documenta el desarrollo de competencias en inteligencia de negoc
 ## 📊 Data Products
 
 1. Alineamiento dinámico 
-2. Data Product 2 - (Nombre del caso)
-3. Data Product 3 - (Nombre del caso)
-4. Data Product 4 - (Nombre del caso)
-5. Data Product 5 - (Nombre del caso)
-6. Data Product 6 - (Nombre del caso)
-
+2. Cultura y liderazgo digital 
+3. Innovación centrada en el cliente
+4. Agilidad operativa
+5. Acceso y uso de datos 
+6. Ecosistemas colaborativos 
 ---
 
 ## ⚙️ Herramientas utilizadas
