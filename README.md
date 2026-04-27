@@ -14,6 +14,8 @@
 
 Este portafolio presenta el desarrollo de seis productos de datos elaborados a partir de casos prácticos del curso. Cada producto integra análisis, visualización y gobernanza de datos, con el objetivo de generar información útil para la toma de decisiones.
 
+Asimismo, el portafolio se fundamenta en los seis pivotes estratégicos para la evolución digital de las empresas: el alineamiento dinámico, la cultura y el liderazgo digital, la innovación centrada en el cliente, la agilidad operativa, el acceso y uso de datos, y los ecosistemas colaborativos. Estos elementos orientan el desarrollo de cada producto, permitiendo no solo la construcción de dashboards, sino la generación de valor desde una perspectiva estratégica, integradora y orientada al negocio.
+
 ---
 
 ## 🎯 Justificación
