@@ -1,1 +1,1 @@
-# Digital-Business-Intelligence-gobernanza-pr-ctica-con-herramientas-y-dashboards
+# Digital-Business-Intelligence-gobernanza-practica-con-herramientas-y-dashboards
