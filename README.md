@@ -26,7 +26,7 @@ Este portafolio documenta el desarrollo de competencias en inteligencia de negoc
 
 ## 📊 Data Products
 
-1. Data Product 1 - (Nombre del caso)
+1. Alineamiento dinámico 
 2. Data Product 2 - (Nombre del caso)
 3. Data Product 3 - (Nombre del caso)
 4. Data Product 4 - (Nombre del caso)
